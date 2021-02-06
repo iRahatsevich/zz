@@ -8,5 +8,6 @@ public class newclass {
         System.out.println("lene 3");
 
         System.out.println(a);
+        System.out.println("adding new line");
     }
 }
